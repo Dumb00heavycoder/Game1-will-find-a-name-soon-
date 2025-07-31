@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dt123dhv5oal7"
-path="res://.godot/imported/dungeon_.png-e545a2ae4ec483e2452767294bbbd1c1.ctex"
+path="res://.godot/imported/dungeon_.png-1e283f3a16b7248895dda45601185fea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/four season background/background_/dungeon_.png"
-dest_files=["res://.godot/imported/dungeon_.png-e545a2ae4ec483e2452767294bbbd1c1.ctex"]
+source_file="res://assets/dungeon_.png"
+dest_files=["res://.godot/imported/dungeon_.png-1e283f3a16b7248895dda45601185fea.ctex"]
 
 [params]
 
